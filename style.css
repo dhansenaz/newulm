@@ -58,20 +58,24 @@ a{
 .card1{
     background-image: linear-gradient(to top, #4F819B 0%, rgb(129, 189, 221) 100%);
     padding:20px;
+    line-height:25px;
 }
 .card2{
     background-image: linear-gradient(to top, #4F819B 0%, rgb(129, 189, 221) 100%);
     
     padding:20px;
+    line-height:25px;    
+
 }
 .nathaniel{
     width:200px;
 }
 .card3{
     background-image: linear-gradient(to top, #4F819B 0%, rgb(129, 189, 221) 100%);
-    
-    
+
     padding:20px;
+    line-height:25px;
+    
 }
 .grid-3{
     display:grid;
