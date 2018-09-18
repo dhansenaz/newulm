@@ -127,11 +127,12 @@ h3 {
 }
 .vimeolink {
   padding: 20px;
-  width: 150px;
+  width: 200px;
   background-color: #333;
   color: white;
   position: absolute;
   z-index: 1;
+  margin-top:1rem;
   
   transition: all 1000ms;
 }
