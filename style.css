@@ -154,7 +154,7 @@ h3 {
 .left::after {
     content: "";
     height: 600px;
-    background-image: url(bandw.jpeg);
+    background-image: url(showcase.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     /* background-position: center; */
